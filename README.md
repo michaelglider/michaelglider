@@ -10,7 +10,7 @@ I'm currently studying computer science at California State University, Long Bea
 - I'm an early riser (opener at a cafe where I am a main barista), always driven and constantly learning in the tech world.
 
 ## ✨Fun Facts
-- I work as a barista
+- I work as a Barista
 - I love traveling and sports (🏎️F1, 🏄‍♂️surfing, ⚾️baseball, etc...) 
 - I am a Mac fanboy!
 
