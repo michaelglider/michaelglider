@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Michael 👋
+
+I'm a 21-year-old student/developer based in Southern California, and I'm passionate about crafting new things with code!
+
+
 
 <!--
 **michaelglider/michaelglider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
