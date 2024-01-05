@@ -16,6 +16,7 @@ I'm currently studying computer science at California State University, Long Bea
 
 ## 📫Contact
 For a quick response, DM me on [Instagram](https://www.instagram.com/michael.glider/) or [LinkedIn](https://www.linkedin.com/in/michael-glider/)
+
 For professional inquries, reach out via email at [michaelglider1@gmail.com]
 
 <!--
