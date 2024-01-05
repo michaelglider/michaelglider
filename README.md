@@ -2,10 +2,21 @@
 
 I'm a 21-year-old student/developer based in Southern California, and I'm passionate about crafting new things with code!
 
-# 🔭Current Endeavors
+## 🔭Current Endeavors
 
 I'm currently studying computer science at California State University, Long Beach, where my programming journey started in 2020. Here is what I'm currently focused on:
-- programming
+- I'm engaged in exciting fullstack projects.
+- I'm exploring different tools and libraries to enhance my skill set.
+- I'm an early riser (opener at a cafe where I am a main barista), always driven and constantly learning in the tech world.
+
+## ✨Fun Facts
+- I work as a barista
+- I love traveling and sports (🏎️F1, 🏄‍♂️surfing, ⚾️baseball, etc...) 
+- I am a Mac fanboy!
+
+## 📫Contact
+For a quick response, DM me on [Instagram](https://www.instagram.com/michael.glider/) or [LinkedIn](https://www.linkedin.com/in/michael-glider/)
+For professional inquries, reach out via email at [michaelglider1@gmail.com]
 
 <!--
 **michaelglider/michaelglider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
