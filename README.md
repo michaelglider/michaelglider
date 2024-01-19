@@ -14,7 +14,7 @@ I'm currently studying computer science at California State University, Long Bea
 ## ✨Fun Facts
 - I work as a Barista
 - I love traveling and sports (🏎️F1, 🏄‍♂️surfing, ⚾️baseball, etc...) 
-- I mainly use a macbook pro!
+- I love using my mac to code!
 
 ## 📫Contact
 For a quick response, DM me on [Instagram](https://www.instagram.com/michael.glider/) or [LinkedIn](https://www.linkedin.com/in/michael-glider/)
