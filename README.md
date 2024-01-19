@@ -2,6 +2,8 @@
 
 I'm a 21-year-old student/developer based in Southern California, and I'm passionate about crafting new things with code!
 
+- Check out my [website](https://glidertech.netlify.app/) to learn more about me.
+
 ## 🔭Current Endeavors
 
 I'm currently studying computer science at California State University, Long Beach, where my programming journey started in 2020. Here is what I'm currently focused on:
@@ -12,7 +14,7 @@ I'm currently studying computer science at California State University, Long Bea
 ## ✨Fun Facts
 - I work as a Barista
 - I love traveling and sports (🏎️F1, 🏄‍♂️surfing, ⚾️baseball, etc...) 
-- I am a Mac fanboy!
+- I mainly use a macbook pro!
 
 ## 📫Contact
 For a quick response, DM me on [Instagram](https://www.instagram.com/michael.glider/) or [LinkedIn](https://www.linkedin.com/in/michael-glider/)
